@@ -18,7 +18,7 @@ I’m a certified IT support specialist currently transitioning from a strong ba
 - **Networking:** TCP/IP, DNS, DHCP, LAN/WAN, VPNs, Cisco Networking  
 - **Cybersecurity:** Firewalls, threat monitoring, incident response fundamentals, telecom cabinet integrations  
 - **System Admin Tools:** Active Directory, Wireshark, Windows Server, system imaging tools  
-- **Programming:** Python (Cybersecurity applications)  
+- **Programming:** Python 
 - **Software Proficiency:** Microsoft Office Suite, Remote Assistance Tools  
 - **Certifications:** CompTIA Security+, ASE Certified, 609 Refrigerant Certification  
 
